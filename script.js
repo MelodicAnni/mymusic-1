@@ -325,5 +325,5 @@ document.addEventListener("DOMContentLoaded", btnEvents);
 //============ Calling Load Music
 loadMusic(songs[musicIndex]);
 
-alert("Happy Holi, dear Anni! 🌈 May this festival of colors sprinkle your life with melodies of love, paint your days with the brightest hues of happiness, and fill your heart with the sweetest rhythms of joy. Here's to a harmonious celebration and countless memories with friends and family. Wishing you a truly melodious and colorful Holi! 🎶✨");
+
 
